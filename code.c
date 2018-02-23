@@ -3,6 +3,8 @@
 sbit Out = P2^0;		   // Pin P2.0 is named as Out
 sbit In = P1^0;
 
+//Enter
+
 
 sbit Step1 = P1^1;
 sbit Step2 = P1^2;
